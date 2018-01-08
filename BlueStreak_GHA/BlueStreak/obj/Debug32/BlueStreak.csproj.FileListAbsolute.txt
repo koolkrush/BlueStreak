@@ -1,0 +1,16 @@
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\obj\Debug32\BlueStreak.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\obj\Debug32\BlueStreak.csproj.CoreCompileInputs.cache
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\bin\BlueStreak.dll
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\bin\BlueStreak.pdb
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\obj\Debug32\BlueStreak.dll
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\obj\Debug32\BlueStreak.pdb
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\obj\Debug32\BlueStreak.Properties.Resources.resources
+C:\Users\Tareq\Desktop\BlueStreak\BlueStreak\BlueStreak\obj\Debug32\BlueStreak.csproj.GenerateResource.Cache
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\bin\BlueStreak.dll
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\bin\BlueStreak.pdb
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\obj\Debug32\BlueStreak.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\obj\Debug32\BlueStreak.Properties.Resources.resources
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\obj\Debug32\BlueStreak.csproj.GenerateResource.Cache
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\obj\Debug32\BlueStreak.csproj.CoreCompileInputs.cache
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\obj\Debug32\BlueStreak.dll
+C:\Users\Tareq\Desktop\BlueStreak_GHA\BlueStreak_GHA\BlueStreak\obj\Debug32\BlueStreak.pdb
